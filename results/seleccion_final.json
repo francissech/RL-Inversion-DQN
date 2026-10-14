@@ -1,0 +1,14 @@
+{
+    "version": "v2",
+    "semillas": [
+        42,
+        7,
+        21
+    ],
+    "eta_rotacion": 0.001,
+    "criterio": "Mayor retorno promedio en validacion",
+    "entrenamiento": "2015-2021",
+    "validacion": "2022-2023",
+    "prueba": "2024-2025",
+    "ajustes_despues_de_prueba": false
+}

@@ -1,0 +1,11 @@
+{
+    "seleccion_recompensa": "Mayor retorno neto promedio en validacion",
+    "desempate": "Menor maximo drawdown promedio en validacion",
+    "semillas": [
+        42,
+        7,
+        21
+    ],
+    "prueba_final": "2024-2025",
+    "nota": "No seleccionar la mejor semilla individual."
+}

@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+matplotlib==3.11.1
+scikit-learn==1.9.1
+gymnasium==1.4.0
+stable-baselines3==2.9.0
+torch==2.14.1
+yfinance==1.7.0
+joblib==1.6.0
+ipykernel==7.3.0
